@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/workspace/devel
+
+Name: lightrover_ros
+Description: Description of lightrover_ros
+Version: 0.0.0
+Cflags: -I/home/ubuntu/Desktop/workspace/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

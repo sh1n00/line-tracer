@@ -1,0 +1,13 @@
+/home/ubuntu/Desktop/workspace/install/_setup_util.py
+/home/ubuntu/Desktop/workspace/install/env.sh
+/home/ubuntu/Desktop/workspace/install/setup.bash
+/home/ubuntu/Desktop/workspace/install/local_setup.bash
+/home/ubuntu/Desktop/workspace/install/setup.sh
+/home/ubuntu/Desktop/workspace/install/local_setup.sh
+/home/ubuntu/Desktop/workspace/install/setup.zsh
+/home/ubuntu/Desktop/workspace/install/local_setup.zsh
+/home/ubuntu/Desktop/workspace/install/.rosinstall
+/home/ubuntu/Desktop/workspace/install/lib/pkgconfig/beginner_tutorials.pc
+/home/ubuntu/Desktop/workspace/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/ubuntu/Desktop/workspace/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/ubuntu/Desktop/workspace/install/share/beginner_tutorials/package.xml
